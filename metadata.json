@@ -1,0 +1,6 @@
+{
+  "name": "YS Stars Academy",
+  "description": "YS Stars Academy, Goplapur, Campierganj, Gorakhpur, Uttar Pradesh. Explore our school, learning environment, activities and admission information for the 2026–2027 academic session.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
